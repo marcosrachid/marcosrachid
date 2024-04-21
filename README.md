@@ -3,6 +3,8 @@
 
 ---
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marcosrachid.marcosrachid&left_color=green&right_color=red)
+
 #### Hi, I'm Marcos 👾, Senior Software Engineer, Tech Lead and Blockchain enthusiast. Occasionally game player.
 
 <details>
