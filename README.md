@@ -4,8 +4,11 @@
 ---
 
 <p>
-    <p align="left">
+    <p>
     coxinha
+    </p>
+    <p align="right">
+    [![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
     </p>
 </p>
 
@@ -13,28 +16,20 @@
 
 <p>
     <p style="display: inline-block">
-        <a href="mailto:marcosrachid@gmail.com">
+        <a href="mailto:marcosrachid@gmail.com" target="_blank">
             <img align="left" alt="Marcos's e-mail" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
         </a>
-        <a href="https://www.instagram.com/marcosrachid/">
+        <a href="https://www.instagram.com/marcosrachid/" target="_blank">
             <img align="left" alt="Marcos's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
         </a>
-        <a href="https://www.linkedin.com/in/marcos-rachid
-    ">
+        <a href="https://www.linkedin.com/in/marcos-rachid" target="_blank">
             <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
         </a>
-        <a href="https://github.com/marcosrachid">
+        <a href="https://github.com/marcosrachid" target="_blank">
             <img align="left" alt="Marcos's github" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
         </a>
     </p>
     <p align="right" style="display: inline-block">
-    Online CV : <a href="https://rachid.dev">https://rachid.dev</a>
+    Online CV : <a href="https://rachid.dev" target="_blank">rachid.dev</a>
     </p>
-</p>
-
-<p align="center">
-    <h4>Don't forget to METAL!</h4>
-
-[![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
-
 </p>
