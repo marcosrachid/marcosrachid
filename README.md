@@ -3,6 +3,16 @@
 
 ---
 
+### Hi, I'm Marcos 👾, Senior Software Engineer, Tech Lead and Blockchain enthusiast. Occasionally game player
+
+<details>
+    <summary>Stats</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
+
+<h3>Don't forget to METAL!</h3>
+
 [![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
 
 ---
