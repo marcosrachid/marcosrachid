@@ -32,4 +32,9 @@
     </p>
 </p>
 
+<p align="center">
+    <h4>Don't forget to METAL!</h4>
+
 [![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
+
+</p>
