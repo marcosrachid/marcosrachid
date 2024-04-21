@@ -3,11 +3,7 @@
 
 ---
 
-<div style="width: 100%">
-
 [![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
-
-</div>
 
 ---
 
