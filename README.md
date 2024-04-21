@@ -3,14 +3,11 @@
 
 ---
 
-<p>
-    <p>
-    coxinha
-    </p>
-    <p align="right">
-    [![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
-    </p>
+<p align="right">
+coxinha
 </p>
+
+[![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
 
 ---
 
