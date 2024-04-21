@@ -1,9 +1,10 @@
-<h3>Welcome to my house!</h3>
-<h5>Enter freely. Go safely, and leave something of the happiness you bring!</h5>
+### Welcome to my house! ![](https://komarev.com/ghpvc/?username=marcosrachid)
+
+#### Enter freely. Go safely, and leave something of the happiness you bring!
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marcosrachid.marcosrachid&left_color=green&right_color=red)
+<br>
 
 #### Hi, I'm Marcos 👾, Senior Software Engineer, Tech Lead and Blockchain enthusiast. Occasionally game player.
 
