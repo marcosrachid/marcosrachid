@@ -3,7 +3,7 @@
 
 ---
 
-### Hi, I'm Marcos 👾, Senior Software Engineer, Tech Lead and Blockchain enthusiast. Occasionally game player
+#### Hi, I'm Marcos 👾, Senior Software Engineer, Tech Lead and Blockchain enthusiast. Occasionally game player.
 
 <details>
     <summary>Stats</summary>
