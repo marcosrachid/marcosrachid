@@ -16,3 +16,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
