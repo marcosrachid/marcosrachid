@@ -27,7 +27,7 @@
             <img align="left" alt="Marcos's github" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
         </a>
     </p>
-    <p  style="float: right; display: inline-block">
+    <p align="right" style="display: inline-block">
     Online CV : <a href="https://rachid.dev">https://rachid.dev</a>
     </p>
 </p>
