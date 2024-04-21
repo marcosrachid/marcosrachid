@@ -8,7 +8,14 @@
 <details>
     <summary>Stats</summary>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 <h3>Don't forget to METAL!</h3>
