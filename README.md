@@ -11,11 +11,11 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2024 - To: 10 November 2024
+From: 20 April 2024 - To: 11 November 2024
 
-Total Time: 68 hrs 57 mins
+Total Time: 73 hrs 26 mins
 
-Other           772 hrs 38 mins ███████████████████████░░   91.81 %
+Other           780 hrs 40 mins ███████████████████████░░   91.40 %
 ```
 
 <!--END_SECTION:waka-->
