@@ -36,7 +36,8 @@ Other           1,220 hrs 32 mins███████████████�
             <img align="left" alt="Marcos's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
         </a>
         <a href="https://www.linkedin.com/in/marcos-rachid" target="_blank">
-            <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<!--             <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" /> -->
+            Linkedin
         </a>
         <a href="https://github.com/marcosrachid" target="_blank">
             <img align="left" alt="Marcos's github" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
