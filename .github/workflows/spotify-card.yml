@@ -1,0 +1,38 @@
+name: Spotify Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    name: Update last played Spotify card
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate Spotify SVG
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python api/spotify.py --output assets/spotify.svg
+
+      - name: Commit card
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Updated Spotify last played card
+          file_pattern: assets/spotify.svg

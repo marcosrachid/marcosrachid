@@ -13,7 +13,7 @@ from collections import defaultdict
 from datetime import datetime, timezone
 
 README_PATH = "README.md"
-SECTION_NAME = "waka"
+SECTION_NAME = "github-stats"
 LANG_COUNT = 10
 TOOL_COUNT = 10
 BAR_LENGTH = 25

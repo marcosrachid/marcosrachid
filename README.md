@@ -8,7 +8,7 @@
 
 <details>
     <summary>Stats</summary>
-    <!--START_SECTION:waka-->
+    <!--START_SECTION:github-stats-->
 
 ```txt
 GitHub stats · public repos · updated automatically
@@ -16,7 +16,7 @@ GitHub stats · public repos · updated automatically
 Languages and tools will appear here after the GitHub Stats workflow runs.
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:github-stats-->
 </details>
 
 <h3>Don't forget to METAL!</h3>
