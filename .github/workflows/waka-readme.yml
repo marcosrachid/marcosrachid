@@ -1,25 +1,17 @@
 name: Waka Readme
 
+# Inativado em 2026-11-16: a API do WakaTime responde 403 Forbidden.
+# A API key do plugin é write-only e não lê stats; a action precisa de um
+# OAuth token em WAKATIME_API_KEY (https://wakatime.com/settings/account).
+# Para reativar: atualize o secret e restaure o job abaixo.
+
 on:
-  # for manual workflow trigger
   workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme DevMetrics (disabled)
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+      - name: Skip waka-readme
+        run: echo "Job inativado. WakaTime API 403 — substitua WAKATIME_API_KEY por um OAuth token para reativar."
