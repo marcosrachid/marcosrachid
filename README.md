@@ -45,7 +45,7 @@ Other         ██░░░░░░░░░░░░░░░░░░░░
 
 <h3>Don't forget to METAL!</h3>
 
-[![Spotify](./assets/spotify.svg)](https://open.spotify.com/user/12186968922)
+[![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
 
 ---
 
