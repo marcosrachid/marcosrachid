@@ -11,9 +11,33 @@
     <!--START_SECTION:waka-->
 
 ```txt
-GitHub stats · public repos · updated automatically
+GitHub stats · 88 public repos · updated 16 November 2026
 
-Languages and tools will appear here after the GitHub Stats workflow runs.
+Languages
+Java          █████████████░░░░░░░░░░░░  52.96 %
+Go            ███▒░░░░░░░░░░░░░░░░░░░░░  13.83 %
+JavaScript    ███▒░░░░░░░░░░░░░░░░░░░░░  13.15 %
+TypeScript    █░░░░░░░░░░░░░░░░░░░░░░░░   4.23 %
+HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.21 %
+Python        █░░░░░░░░░░░░░░░░░░░░░░░░   3.43 %
+Gherkin       ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.62 %
+CSS           ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.08 %
+Rust          ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.72 %
+Jinja         ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.01 %
+Other         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74 %
+
+Tools
+Shell         ██████████░░░░░░░░░░░░░░░  39.08 %
+nodejs        ███░░░░░░░░░░░░░░░░░░░░░░  11.71 %
+ethereum      ██▓░░░░░░░░░░░░░░░░░░░░░░  10.65 %
+blockchain    █▒░░░░░░░░░░░░░░░░░░░░░░░   5.32 %
+rest-api      █▒░░░░░░░░░░░░░░░░░░░░░░░   5.32 %
+mongodb       █░░░░░░░░░░░░░░░░░░░░░░░░   4.26 %
+spring-boot   █░░░░░░░░░░░░░░░░░░░░░░░░   4.26 %
+spring        █░░░░░░░░░░░░░░░░░░░░░░░░   4.26 %
+Dockerfile    █░░░░░░░░░░░░░░░░░░░░░░░░   3.91 %
+solidity      █░░░░░░░░░░░░░░░░░░░░░░░░   3.19 %
+Other         ██░░░░░░░░░░░░░░░░░░░░░░░   8.02 %
 ```
 
 <!--END_SECTION:waka-->
