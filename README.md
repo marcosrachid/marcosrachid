@@ -23,24 +23,23 @@ Other           3,136 hrs 22 mins     ██████████████
 
 <h3>Don't forget to METAL!</h3>
 
-[![Spotify](https://marcosrachid.vercel.app/api/spotify)](https://open.spotify.com/user/12186968922)
+[![Spotify](./assets/spotify.svg)](https://open.spotify.com/user/12186968922)
 
 ---
 
 <p>
     <p style="display: inline-block">
         <a href="mailto:marcosrachid@gmail.com" target="_blank">
-            <img align="left" alt="Marcos's e-mail" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
+            <img align="left" alt="Marcos's e-mail" width="20px" src="https://cdn.simpleicons.org/gmail/495f7e" />
         </a>
         <a href="https://www.instagram.com/marcosrachid/" target="_blank">
-            <img align="left" alt="Marcos's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+            <img align="left" alt="Marcos's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/495f7e" />
         </a>
         <a href="https://www.linkedin.com/in/marcos-rachid" target="_blank">
-<!--             <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" /> -->
-            Linkedin
+            <img align="left" alt="Marcos's LinkedIn" width="20px" src="https://api.iconify.design/mdi/linkedin.svg?color=%23495f7e" />
         </a>
         <a href="https://github.com/marcosrachid" target="_blank">
-            <img align="left" alt="Marcos's github" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
+            <img align="left" alt="Marcos's github" width="20px" src="https://cdn.simpleicons.org/github/495f7e" />
         </a>
     </p>
     <p align="right" style="display: inline-block">
