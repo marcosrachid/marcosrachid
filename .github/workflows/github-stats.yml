@@ -1,0 +1,33 @@
+name: GitHub Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [master, main]
+    paths:
+      - scripts/update_github_stats.py
+      - .github/workflows/github-stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update language and tool stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_github_stats.py
+
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Updated GitHub language and tool stats
+          file_pattern: README.md

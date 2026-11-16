@@ -11,11 +11,9 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2024 - To: 30 October 2026
+GitHub stats · public repos · updated automatically
 
-Total Time: 101 hrs 16 mins
-
-Other           3,136 hrs 22 mins     ████████████████████████▒   96.87 %
+Languages and tools will appear here after the GitHub Stats workflow runs.
 ```
 
 <!--END_SECTION:waka-->
